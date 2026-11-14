@@ -1695,692 +1695,6 @@
       "received_at": "2026-10-05T00:00:00Z"
     },
     {
-      "case_id": "new-0-0",
-      "channel": "new",
-      "occurred_week": 0,
-      "reported_week": 8,
-      "received_at": "2026-03-02T00:00:00Z"
-    },
-    {
-      "case_id": "new-0-1",
-      "channel": "new",
-      "occurred_week": 0,
-      "reported_week": 9,
-      "received_at": "2026-03-09T00:00:00Z"
-    },
-    {
-      "case_id": "new-1-0",
-      "channel": "new",
-      "occurred_week": 1,
-      "reported_week": 9,
-      "received_at": "2026-03-09T00:00:00Z"
-    },
-    {
-      "case_id": "new-1-1",
-      "channel": "new",
-      "occurred_week": 1,
-      "reported_week": 10,
-      "received_at": "2026-03-16T00:00:00Z"
-    },
-    {
-      "case_id": "new-1-2",
-      "channel": "new",
-      "occurred_week": 1,
-      "reported_week": 11,
-      "received_at": "2026-03-23T00:00:00Z"
-    },
-    {
-      "case_id": "new-2-0",
-      "channel": "new",
-      "occurred_week": 2,
-      "reported_week": 10,
-      "received_at": "2026-03-16T00:00:00Z"
-    },
-    {
-      "case_id": "new-2-1",
-      "channel": "new",
-      "occurred_week": 2,
-      "reported_week": 11,
-      "received_at": "2026-03-23T00:00:00Z"
-    },
-    {
-      "case_id": "new-2-2",
-      "channel": "new",
-      "occurred_week": 2,
-      "reported_week": 12,
-      "received_at": "2026-03-30T00:00:00Z"
-    },
-    {
-      "case_id": "new-2-3",
-      "channel": "new",
-      "occurred_week": 2,
-      "reported_week": 10,
-      "received_at": "2026-03-16T00:00:00Z"
-    },
-    {
-      "case_id": "new-3-0",
-      "channel": "new",
-      "occurred_week": 3,
-      "reported_week": 11,
-      "received_at": "2026-03-23T00:00:00Z"
-    },
-    {
-      "case_id": "new-3-1",
-      "channel": "new",
-      "occurred_week": 3,
-      "reported_week": 12,
-      "received_at": "2026-03-30T00:00:00Z"
-    },
-    {
-      "case_id": "new-3-2",
-      "channel": "new",
-      "occurred_week": 3,
-      "reported_week": 13,
-      "received_at": "2026-04-06T00:00:00Z"
-    },
-    {
-      "case_id": "new-3-3",
-      "channel": "new",
-      "occurred_week": 3,
-      "reported_week": 11,
-      "received_at": "2026-03-23T00:00:00Z"
-    },
-    {
-      "case_id": "new-3-4",
-      "channel": "new",
-      "occurred_week": 3,
-      "reported_week": 12,
-      "received_at": "2026-03-30T00:00:00Z"
-    },
-    {
-      "case_id": "new-4-0",
-      "channel": "new",
-      "occurred_week": 4,
-      "reported_week": 12,
-      "received_at": "2026-03-30T00:00:00Z"
-    },
-    {
-      "case_id": "new-4-1",
-      "channel": "new",
-      "occurred_week": 4,
-      "reported_week": 13,
-      "received_at": "2026-04-06T00:00:00Z"
-    },
-    {
-      "case_id": "new-5-0",
-      "channel": "new",
-      "occurred_week": 5,
-      "reported_week": 13,
-      "received_at": "2026-04-06T00:00:00Z"
-    },
-    {
-      "case_id": "new-5-1",
-      "channel": "new",
-      "occurred_week": 5,
-      "reported_week": 14,
-      "received_at": "2026-04-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-5-2",
-      "channel": "new",
-      "occurred_week": 5,
-      "reported_week": 15,
-      "received_at": "2026-04-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-6-0",
-      "channel": "new",
-      "occurred_week": 6,
-      "reported_week": 14,
-      "received_at": "2026-04-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-6-1",
-      "channel": "new",
-      "occurred_week": 6,
-      "reported_week": 15,
-      "received_at": "2026-04-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-6-2",
-      "channel": "new",
-      "occurred_week": 6,
-      "reported_week": 16,
-      "received_at": "2026-04-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-6-3",
-      "channel": "new",
-      "occurred_week": 6,
-      "reported_week": 14,
-      "received_at": "2026-04-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-7-0",
-      "channel": "new",
-      "occurred_week": 7,
-      "reported_week": 15,
-      "received_at": "2026-04-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-7-1",
-      "channel": "new",
-      "occurred_week": 7,
-      "reported_week": 16,
-      "received_at": "2026-04-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-7-2",
-      "channel": "new",
-      "occurred_week": 7,
-      "reported_week": 17,
-      "received_at": "2026-05-04T00:00:00Z"
-    },
-    {
-      "case_id": "new-7-3",
-      "channel": "new",
-      "occurred_week": 7,
-      "reported_week": 15,
-      "received_at": "2026-04-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-7-4",
-      "channel": "new",
-      "occurred_week": 7,
-      "reported_week": 16,
-      "received_at": "2026-04-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-8-0",
-      "channel": "new",
-      "occurred_week": 8,
-      "reported_week": 16,
-      "received_at": "2026-04-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-8-1",
-      "channel": "new",
-      "occurred_week": 8,
-      "reported_week": 17,
-      "received_at": "2026-05-04T00:00:00Z"
-    },
-    {
-      "case_id": "new-9-0",
-      "channel": "new",
-      "occurred_week": 9,
-      "reported_week": 17,
-      "received_at": "2026-05-04T00:00:00Z"
-    },
-    {
-      "case_id": "new-9-1",
-      "channel": "new",
-      "occurred_week": 9,
-      "reported_week": 18,
-      "received_at": "2026-05-11T00:00:00Z"
-    },
-    {
-      "case_id": "new-9-2",
-      "channel": "new",
-      "occurred_week": 9,
-      "reported_week": 19,
-      "received_at": "2026-05-18T00:00:00Z"
-    },
-    {
-      "case_id": "new-10-0",
-      "channel": "new",
-      "occurred_week": 10,
-      "reported_week": 18,
-      "received_at": "2026-05-11T00:00:00Z"
-    },
-    {
-      "case_id": "new-10-1",
-      "channel": "new",
-      "occurred_week": 10,
-      "reported_week": 19,
-      "received_at": "2026-05-18T00:00:00Z"
-    },
-    {
-      "case_id": "new-10-2",
-      "channel": "new",
-      "occurred_week": 10,
-      "reported_week": 20,
-      "received_at": "2026-05-25T00:00:00Z"
-    },
-    {
-      "case_id": "new-10-3",
-      "channel": "new",
-      "occurred_week": 10,
-      "reported_week": 18,
-      "received_at": "2026-05-11T00:00:00Z"
-    },
-    {
-      "case_id": "new-11-0",
-      "channel": "new",
-      "occurred_week": 11,
-      "reported_week": 19,
-      "received_at": "2026-05-18T00:00:00Z"
-    },
-    {
-      "case_id": "new-11-1",
-      "channel": "new",
-      "occurred_week": 11,
-      "reported_week": 20,
-      "received_at": "2026-05-25T00:00:00Z"
-    },
-    {
-      "case_id": "new-11-2",
-      "channel": "new",
-      "occurred_week": 11,
-      "reported_week": 21,
-      "received_at": "2026-06-01T00:00:00Z"
-    },
-    {
-      "case_id": "new-11-3",
-      "channel": "new",
-      "occurred_week": 11,
-      "reported_week": 19,
-      "received_at": "2026-05-18T00:00:00Z"
-    },
-    {
-      "case_id": "new-11-4",
-      "channel": "new",
-      "occurred_week": 11,
-      "reported_week": 20,
-      "received_at": "2026-05-25T00:00:00Z"
-    },
-    {
-      "case_id": "new-12-0",
-      "channel": "new",
-      "occurred_week": 12,
-      "reported_week": 20,
-      "received_at": "2026-05-25T00:00:00Z"
-    },
-    {
-      "case_id": "new-12-1",
-      "channel": "new",
-      "occurred_week": 12,
-      "reported_week": 21,
-      "received_at": "2026-06-01T00:00:00Z"
-    },
-    {
-      "case_id": "new-13-0",
-      "channel": "new",
-      "occurred_week": 13,
-      "reported_week": 21,
-      "received_at": "2026-06-01T00:00:00Z"
-    },
-    {
-      "case_id": "new-13-1",
-      "channel": "new",
-      "occurred_week": 13,
-      "reported_week": 22,
-      "received_at": "2026-06-08T00:00:00Z"
-    },
-    {
-      "case_id": "new-13-2",
-      "channel": "new",
-      "occurred_week": 13,
-      "reported_week": 23,
-      "received_at": "2026-06-15T00:00:00Z"
-    },
-    {
-      "case_id": "new-14-0",
-      "channel": "new",
-      "occurred_week": 14,
-      "reported_week": 22,
-      "received_at": "2026-06-08T00:00:00Z"
-    },
-    {
-      "case_id": "new-14-1",
-      "channel": "new",
-      "occurred_week": 14,
-      "reported_week": 23,
-      "received_at": "2026-06-15T00:00:00Z"
-    },
-    {
-      "case_id": "new-14-2",
-      "channel": "new",
-      "occurred_week": 14,
-      "reported_week": 24,
-      "received_at": "2026-06-22T00:00:00Z"
-    },
-    {
-      "case_id": "new-14-3",
-      "channel": "new",
-      "occurred_week": 14,
-      "reported_week": 22,
-      "received_at": "2026-06-08T00:00:00Z"
-    },
-    {
-      "case_id": "new-15-0",
-      "channel": "new",
-      "occurred_week": 15,
-      "reported_week": 23,
-      "received_at": "2026-06-15T00:00:00Z"
-    },
-    {
-      "case_id": "new-15-1",
-      "channel": "new",
-      "occurred_week": 15,
-      "reported_week": 24,
-      "received_at": "2026-06-22T00:00:00Z"
-    },
-    {
-      "case_id": "new-15-2",
-      "channel": "new",
-      "occurred_week": 15,
-      "reported_week": 25,
-      "received_at": "2026-06-29T00:00:00Z"
-    },
-    {
-      "case_id": "new-15-3",
-      "channel": "new",
-      "occurred_week": 15,
-      "reported_week": 23,
-      "received_at": "2026-06-15T00:00:00Z"
-    },
-    {
-      "case_id": "new-15-4",
-      "channel": "new",
-      "occurred_week": 15,
-      "reported_week": 24,
-      "received_at": "2026-06-22T00:00:00Z"
-    },
-    {
-      "case_id": "new-16-0",
-      "channel": "new",
-      "occurred_week": 16,
-      "reported_week": 24,
-      "received_at": "2026-06-22T00:00:00Z"
-    },
-    {
-      "case_id": "new-16-1",
-      "channel": "new",
-      "occurred_week": 16,
-      "reported_week": 25,
-      "received_at": "2026-06-29T00:00:00Z"
-    },
-    {
-      "case_id": "new-17-0",
-      "channel": "new",
-      "occurred_week": 17,
-      "reported_week": 25,
-      "received_at": "2026-06-29T00:00:00Z"
-    },
-    {
-      "case_id": "new-17-1",
-      "channel": "new",
-      "occurred_week": 17,
-      "reported_week": 26,
-      "received_at": "2026-07-06T00:00:00Z"
-    },
-    {
-      "case_id": "new-17-2",
-      "channel": "new",
-      "occurred_week": 17,
-      "reported_week": 27,
-      "received_at": "2026-07-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-18-0",
-      "channel": "new",
-      "occurred_week": 18,
-      "reported_week": 26,
-      "received_at": "2026-07-06T00:00:00Z"
-    },
-    {
-      "case_id": "new-18-1",
-      "channel": "new",
-      "occurred_week": 18,
-      "reported_week": 27,
-      "received_at": "2026-07-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-18-2",
-      "channel": "new",
-      "occurred_week": 18,
-      "reported_week": 28,
-      "received_at": "2026-07-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-18-3",
-      "channel": "new",
-      "occurred_week": 18,
-      "reported_week": 26,
-      "received_at": "2026-07-06T00:00:00Z"
-    },
-    {
-      "case_id": "new-19-0",
-      "channel": "new",
-      "occurred_week": 19,
-      "reported_week": 27,
-      "received_at": "2026-07-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-19-1",
-      "channel": "new",
-      "occurred_week": 19,
-      "reported_week": 28,
-      "received_at": "2026-07-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-19-2",
-      "channel": "new",
-      "occurred_week": 19,
-      "reported_week": 29,
-      "received_at": "2026-07-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-19-3",
-      "channel": "new",
-      "occurred_week": 19,
-      "reported_week": 27,
-      "received_at": "2026-07-13T00:00:00Z"
-    },
-    {
-      "case_id": "new-19-4",
-      "channel": "new",
-      "occurred_week": 19,
-      "reported_week": 28,
-      "received_at": "2026-07-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-20-0",
-      "channel": "new",
-      "occurred_week": 20,
-      "reported_week": 28,
-      "received_at": "2026-07-20T00:00:00Z"
-    },
-    {
-      "case_id": "new-20-1",
-      "channel": "new",
-      "occurred_week": 20,
-      "reported_week": 29,
-      "received_at": "2026-07-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-21-0",
-      "channel": "new",
-      "occurred_week": 21,
-      "reported_week": 29,
-      "received_at": "2026-07-27T00:00:00Z"
-    },
-    {
-      "case_id": "new-21-1",
-      "channel": "new",
-      "occurred_week": 21,
-      "reported_week": 30,
-      "received_at": "2026-08-03T00:00:00Z"
-    },
-    {
-      "case_id": "new-21-2",
-      "channel": "new",
-      "occurred_week": 21,
-      "reported_week": 31,
-      "received_at": "2026-08-10T00:00:00Z"
-    },
-    {
-      "case_id": "new-22-0",
-      "channel": "new",
-      "occurred_week": 22,
-      "reported_week": 30,
-      "received_at": "2026-08-03T00:00:00Z"
-    },
-    {
-      "case_id": "new-22-1",
-      "channel": "new",
-      "occurred_week": 22,
-      "reported_week": 31,
-      "received_at": "2026-08-10T00:00:00Z"
-    },
-    {
-      "case_id": "new-22-2",
-      "channel": "new",
-      "occurred_week": 22,
-      "reported_week": 32,
-      "received_at": "2026-08-17T00:00:00Z"
-    },
-    {
-      "case_id": "new-22-3",
-      "channel": "new",
-      "occurred_week": 22,
-      "reported_week": 30,
-      "received_at": "2026-08-03T00:00:00Z"
-    },
-    {
-      "case_id": "new-23-0",
-      "channel": "new",
-      "occurred_week": 23,
-      "reported_week": 31,
-      "received_at": "2026-08-10T00:00:00Z"
-    },
-    {
-      "case_id": "new-23-1",
-      "channel": "new",
-      "occurred_week": 23,
-      "reported_week": 32,
-      "received_at": "2026-08-17T00:00:00Z"
-    },
-    {
-      "case_id": "new-23-2",
-      "channel": "new",
-      "occurred_week": 23,
-      "reported_week": 33,
-      "received_at": "2026-08-24T00:00:00Z"
-    },
-    {
-      "case_id": "new-23-3",
-      "channel": "new",
-      "occurred_week": 23,
-      "reported_week": 31,
-      "received_at": "2026-08-10T00:00:00Z"
-    },
-    {
-      "case_id": "new-23-4",
-      "channel": "new",
-      "occurred_week": 23,
-      "reported_week": 32,
-      "received_at": "2026-08-17T00:00:00Z"
-    },
-    {
-      "case_id": "new-24-0",
-      "channel": "new",
-      "occurred_week": 24,
-      "reported_week": 32,
-      "received_at": "2026-08-17T00:00:00Z"
-    },
-    {
-      "case_id": "new-24-1",
-      "channel": "new",
-      "occurred_week": 24,
-      "reported_week": 33,
-      "received_at": "2026-08-24T00:00:00Z"
-    },
-    {
-      "case_id": "new-25-0",
-      "channel": "new",
-      "occurred_week": 25,
-      "reported_week": 33,
-      "received_at": "2026-08-24T00:00:00Z"
-    },
-    {
-      "case_id": "new-25-1",
-      "channel": "new",
-      "occurred_week": 25,
-      "reported_week": 34,
-      "received_at": "2026-08-31T00:00:00Z"
-    },
-    {
-      "case_id": "new-25-2",
-      "channel": "new",
-      "occurred_week": 25,
-      "reported_week": 35,
-      "received_at": "2026-09-07T00:00:00Z"
-    },
-    {
-      "case_id": "new-26-0",
-      "channel": "new",
-      "occurred_week": 26,
-      "reported_week": 34,
-      "received_at": "2026-08-31T00:00:00Z"
-    },
-    {
-      "case_id": "new-26-1",
-      "channel": "new",
-      "occurred_week": 26,
-      "reported_week": 35,
-      "received_at": "2026-09-07T00:00:00Z"
-    },
-    {
-      "case_id": "new-26-2",
-      "channel": "new",
-      "occurred_week": 26,
-      "reported_week": 36,
-      "received_at": "2026-09-14T00:00:00Z"
-    },
-    {
-      "case_id": "new-26-3",
-      "channel": "new",
-      "occurred_week": 26,
-      "reported_week": 34,
-      "received_at": "2026-08-31T00:00:00Z"
-    },
-    {
-      "case_id": "new-27-0",
-      "channel": "new",
-      "occurred_week": 27,
-      "reported_week": 35,
-      "received_at": "2026-09-07T00:00:00Z"
-    },
-    {
-      "case_id": "new-27-1",
-      "channel": "new",
-      "occurred_week": 27,
-      "reported_week": 36,
-      "received_at": "2026-09-14T00:00:00Z"
-    },
-    {
-      "case_id": "new-27-2",
-      "channel": "new",
-      "occurred_week": 27,
-      "reported_week": 37,
-      "received_at": "2026-09-21T00:00:00Z"
-    },
-    {
-      "case_id": "new-27-3",
-      "channel": "new",
-      "occurred_week": 27,
-      "reported_week": 35,
-      "received_at": "2026-09-07T00:00:00Z"
-    },
-    {
-      "case_id": "new-27-4",
-      "channel": "new",
-      "occurred_week": 27,
-      "reported_week": 36,
-      "received_at": "2026-09-14T00:00:00Z"
-    },
-    {
       "case_id": "new-28-0",
       "channel": "new",
       "occurred_week": 28,
@@ -2678,7 +1992,7 @@
     },
     {
       "case_id": "direct-6-0",
-      "cause": "c0",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 8,
       "received_at": "2026-03-02T01:00:00Z"
@@ -2811,7 +2125,7 @@
     },
     {
       "case_id": "direct-11-1",
-      "cause": "c1",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 14,
       "received_at": "2026-04-13T01:00:00Z"
@@ -2944,7 +2258,7 @@
     },
     {
       "case_id": "direct-16-1",
-      "cause": "c1",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 19,
       "received_at": "2026-05-18T01:00:00Z"
@@ -3077,7 +2391,7 @@
     },
     {
       "case_id": "direct-22-1",
-      "cause": "c1",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 25,
       "received_at": "2026-06-29T01:00:00Z"
@@ -3210,7 +2524,7 @@
     },
     {
       "case_id": "direct-27-2",
-      "cause": "c2",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 31,
       "received_at": "2026-08-10T01:00:00Z"
@@ -3343,7 +2657,7 @@
     },
     {
       "case_id": "direct-33-0",
-      "cause": "c0",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 35,
       "received_at": "2026-09-07T01:00:00Z"
@@ -3476,7 +2790,7 @@
     },
     {
       "case_id": "partner-3-3",
-      "cause": "c0",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 8,
       "received_at": "2026-03-02T01:00:00Z"
@@ -3609,7 +2923,7 @@
     },
     {
       "case_id": "partner-9-1",
-      "cause": "c1",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 15,
       "received_at": "2026-04-20T01:00:00Z"
@@ -3742,7 +3056,7 @@
     },
     {
       "case_id": "partner-14-3",
-      "cause": "c0",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 19,
       "received_at": "2026-05-18T01:00:00Z"
@@ -3875,7 +3189,7 @@
     },
     {
       "case_id": "partner-19-4",
-      "cause": "c1",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 25,
       "received_at": "2026-06-29T01:00:00Z"
@@ -4008,7 +3322,7 @@
     },
     {
       "case_id": "partner-25-2",
-      "cause": "c2",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 32,
       "received_at": "2026-08-17T01:00:00Z"
@@ -4141,7 +3455,7 @@
     },
     {
       "case_id": "partner-31-0",
-      "cause": "c0",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 36,
       "received_at": "2026-09-14T01:00:00Z"
@@ -4238,692 +3552,6 @@
       "received_at": "2026-10-05T01:00:00Z"
     },
     {
-      "case_id": "new-0-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 8,
-      "received_at": "2026-03-02T01:00:00Z"
-    },
-    {
-      "case_id": "new-0-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 9,
-      "received_at": "2026-03-09T01:00:00Z"
-    },
-    {
-      "case_id": "new-1-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 9,
-      "received_at": "2026-03-09T01:00:00Z"
-    },
-    {
-      "case_id": "new-1-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 10,
-      "received_at": "2026-03-16T01:00:00Z"
-    },
-    {
-      "case_id": "new-1-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 11,
-      "received_at": "2026-03-23T01:00:00Z"
-    },
-    {
-      "case_id": "new-2-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 10,
-      "received_at": "2026-03-16T01:00:00Z"
-    },
-    {
-      "case_id": "new-2-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 11,
-      "received_at": "2026-03-23T01:00:00Z"
-    },
-    {
-      "case_id": "new-2-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 12,
-      "received_at": "2026-03-30T01:00:00Z"
-    },
-    {
-      "case_id": "new-2-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 10,
-      "received_at": "2026-03-16T01:00:00Z"
-    },
-    {
-      "case_id": "new-3-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 11,
-      "received_at": "2026-03-23T01:00:00Z"
-    },
-    {
-      "case_id": "new-3-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 12,
-      "received_at": "2026-03-30T01:00:00Z"
-    },
-    {
-      "case_id": "new-3-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 13,
-      "received_at": "2026-04-06T01:00:00Z"
-    },
-    {
-      "case_id": "new-3-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 11,
-      "received_at": "2026-03-23T01:00:00Z"
-    },
-    {
-      "case_id": "new-3-4",
-      "cause": "unresolved",
-      "revision": 1,
-      "reviewed_at": 12,
-      "received_at": "2026-03-30T01:00:00Z"
-    },
-    {
-      "case_id": "new-4-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 12,
-      "received_at": "2026-03-30T01:00:00Z"
-    },
-    {
-      "case_id": "new-4-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 13,
-      "received_at": "2026-04-06T01:00:00Z"
-    },
-    {
-      "case_id": "new-5-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 13,
-      "received_at": "2026-04-06T01:00:00Z"
-    },
-    {
-      "case_id": "new-5-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 14,
-      "received_at": "2026-04-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-5-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 15,
-      "received_at": "2026-04-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-6-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 14,
-      "received_at": "2026-04-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-6-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 15,
-      "received_at": "2026-04-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-6-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 16,
-      "received_at": "2026-04-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-6-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 14,
-      "received_at": "2026-04-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-7-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 15,
-      "received_at": "2026-04-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-7-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 16,
-      "received_at": "2026-04-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-7-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 17,
-      "received_at": "2026-05-04T01:00:00Z"
-    },
-    {
-      "case_id": "new-7-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 15,
-      "received_at": "2026-04-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-7-4",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 16,
-      "received_at": "2026-04-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-8-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 16,
-      "received_at": "2026-04-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-8-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 17,
-      "received_at": "2026-05-04T01:00:00Z"
-    },
-    {
-      "case_id": "new-9-0",
-      "cause": "unresolved",
-      "revision": 1,
-      "reviewed_at": 17,
-      "received_at": "2026-05-04T01:00:00Z"
-    },
-    {
-      "case_id": "new-9-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 18,
-      "received_at": "2026-05-11T01:00:00Z"
-    },
-    {
-      "case_id": "new-9-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 19,
-      "received_at": "2026-05-18T01:00:00Z"
-    },
-    {
-      "case_id": "new-10-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 18,
-      "received_at": "2026-05-11T01:00:00Z"
-    },
-    {
-      "case_id": "new-10-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 19,
-      "received_at": "2026-05-18T01:00:00Z"
-    },
-    {
-      "case_id": "new-10-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 20,
-      "received_at": "2026-05-25T01:00:00Z"
-    },
-    {
-      "case_id": "new-10-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 18,
-      "received_at": "2026-05-11T01:00:00Z"
-    },
-    {
-      "case_id": "new-11-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 19,
-      "received_at": "2026-05-18T01:00:00Z"
-    },
-    {
-      "case_id": "new-11-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 20,
-      "received_at": "2026-05-25T01:00:00Z"
-    },
-    {
-      "case_id": "new-11-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 21,
-      "received_at": "2026-06-01T01:00:00Z"
-    },
-    {
-      "case_id": "new-11-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 19,
-      "received_at": "2026-05-18T01:00:00Z"
-    },
-    {
-      "case_id": "new-11-4",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 20,
-      "received_at": "2026-05-25T01:00:00Z"
-    },
-    {
-      "case_id": "new-12-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 20,
-      "received_at": "2026-05-25T01:00:00Z"
-    },
-    {
-      "case_id": "new-12-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 21,
-      "received_at": "2026-06-01T01:00:00Z"
-    },
-    {
-      "case_id": "new-13-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 21,
-      "received_at": "2026-06-01T01:00:00Z"
-    },
-    {
-      "case_id": "new-13-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 22,
-      "received_at": "2026-06-08T01:00:00Z"
-    },
-    {
-      "case_id": "new-13-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 23,
-      "received_at": "2026-06-15T01:00:00Z"
-    },
-    {
-      "case_id": "new-14-0",
-      "cause": "unresolved",
-      "revision": 1,
-      "reviewed_at": 22,
-      "received_at": "2026-06-08T01:00:00Z"
-    },
-    {
-      "case_id": "new-14-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 23,
-      "received_at": "2026-06-15T01:00:00Z"
-    },
-    {
-      "case_id": "new-14-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 24,
-      "received_at": "2026-06-22T01:00:00Z"
-    },
-    {
-      "case_id": "new-14-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 22,
-      "received_at": "2026-06-08T01:00:00Z"
-    },
-    {
-      "case_id": "new-15-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 23,
-      "received_at": "2026-06-15T01:00:00Z"
-    },
-    {
-      "case_id": "new-15-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 24,
-      "received_at": "2026-06-22T01:00:00Z"
-    },
-    {
-      "case_id": "new-15-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 25,
-      "received_at": "2026-06-29T01:00:00Z"
-    },
-    {
-      "case_id": "new-15-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 23,
-      "received_at": "2026-06-15T01:00:00Z"
-    },
-    {
-      "case_id": "new-15-4",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 24,
-      "received_at": "2026-06-22T01:00:00Z"
-    },
-    {
-      "case_id": "new-16-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 24,
-      "received_at": "2026-06-22T01:00:00Z"
-    },
-    {
-      "case_id": "new-16-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 25,
-      "received_at": "2026-06-29T01:00:00Z"
-    },
-    {
-      "case_id": "new-17-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 25,
-      "received_at": "2026-06-29T01:00:00Z"
-    },
-    {
-      "case_id": "new-17-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 26,
-      "received_at": "2026-07-06T01:00:00Z"
-    },
-    {
-      "case_id": "new-17-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 27,
-      "received_at": "2026-07-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-18-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 26,
-      "received_at": "2026-07-06T01:00:00Z"
-    },
-    {
-      "case_id": "new-18-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 27,
-      "received_at": "2026-07-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-18-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 28,
-      "received_at": "2026-07-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-18-3",
-      "cause": "unresolved",
-      "revision": 1,
-      "reviewed_at": 26,
-      "received_at": "2026-07-06T01:00:00Z"
-    },
-    {
-      "case_id": "new-19-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 27,
-      "received_at": "2026-07-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-19-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 28,
-      "received_at": "2026-07-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-19-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 29,
-      "received_at": "2026-07-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-19-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 27,
-      "received_at": "2026-07-13T01:00:00Z"
-    },
-    {
-      "case_id": "new-19-4",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 28,
-      "received_at": "2026-07-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-20-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 28,
-      "received_at": "2026-07-20T01:00:00Z"
-    },
-    {
-      "case_id": "new-20-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 29,
-      "received_at": "2026-07-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-21-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 29,
-      "received_at": "2026-07-27T01:00:00Z"
-    },
-    {
-      "case_id": "new-21-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 30,
-      "received_at": "2026-08-03T01:00:00Z"
-    },
-    {
-      "case_id": "new-21-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 31,
-      "received_at": "2026-08-10T01:00:00Z"
-    },
-    {
-      "case_id": "new-22-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 30,
-      "received_at": "2026-08-03T01:00:00Z"
-    },
-    {
-      "case_id": "new-22-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 31,
-      "received_at": "2026-08-10T01:00:00Z"
-    },
-    {
-      "case_id": "new-22-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 32,
-      "received_at": "2026-08-17T01:00:00Z"
-    },
-    {
-      "case_id": "new-22-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 30,
-      "received_at": "2026-08-03T01:00:00Z"
-    },
-    {
-      "case_id": "new-23-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 31,
-      "received_at": "2026-08-10T01:00:00Z"
-    },
-    {
-      "case_id": "new-23-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 32,
-      "received_at": "2026-08-17T01:00:00Z"
-    },
-    {
-      "case_id": "new-23-2",
-      "cause": "unresolved",
-      "revision": 1,
-      "reviewed_at": 33,
-      "received_at": "2026-08-24T01:00:00Z"
-    },
-    {
-      "case_id": "new-23-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 31,
-      "received_at": "2026-08-10T01:00:00Z"
-    },
-    {
-      "case_id": "new-23-4",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 32,
-      "received_at": "2026-08-17T01:00:00Z"
-    },
-    {
-      "case_id": "new-24-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 32,
-      "received_at": "2026-08-17T01:00:00Z"
-    },
-    {
-      "case_id": "new-24-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 33,
-      "received_at": "2026-08-24T01:00:00Z"
-    },
-    {
-      "case_id": "new-25-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 33,
-      "received_at": "2026-08-24T01:00:00Z"
-    },
-    {
-      "case_id": "new-25-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 34,
-      "received_at": "2026-08-31T01:00:00Z"
-    },
-    {
-      "case_id": "new-25-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 35,
-      "received_at": "2026-09-07T01:00:00Z"
-    },
-    {
-      "case_id": "new-26-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 34,
-      "received_at": "2026-08-31T01:00:00Z"
-    },
-    {
-      "case_id": "new-26-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 35,
-      "received_at": "2026-09-07T01:00:00Z"
-    },
-    {
-      "case_id": "new-26-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 36,
-      "received_at": "2026-09-14T01:00:00Z"
-    },
-    {
-      "case_id": "new-26-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 34,
-      "received_at": "2026-08-31T01:00:00Z"
-    },
-    {
-      "case_id": "new-27-0",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 35,
-      "received_at": "2026-09-07T01:00:00Z"
-    },
-    {
-      "case_id": "new-27-1",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 36,
-      "received_at": "2026-09-14T01:00:00Z"
-    },
-    {
-      "case_id": "new-27-2",
-      "cause": "c2",
-      "revision": 1,
-      "reviewed_at": 37,
-      "received_at": "2026-09-21T01:00:00Z"
-    },
-    {
-      "case_id": "new-27-3",
-      "cause": "c0",
-      "revision": 1,
-      "reviewed_at": 35,
-      "received_at": "2026-09-07T01:00:00Z"
-    },
-    {
-      "case_id": "new-27-4",
-      "cause": "c1",
-      "revision": 1,
-      "reviewed_at": 36,
-      "received_at": "2026-09-14T01:00:00Z"
-    },
-    {
       "case_id": "new-28-0",
       "cause": "unresolved",
       "revision": 1,
@@ -4960,7 +3588,7 @@
     },
     {
       "case_id": "new-30-0",
-      "cause": "c0",
+      "cause": "unresolved",
       "revision": 1,
       "reviewed_at": 38,
       "received_at": "2026-09-28T01:00:00Z"
@@ -5083,6 +3711,104 @@
       "revision": 1,
       "reviewed_at": 42,
       "received_at": "2026-10-26T01:00:00Z"
+    },
+    {
+      "case_id": "direct-0-0",
+      "cause": "c0",
+      "revision": 2,
+      "reviewed_at": 5,
+      "received_at": "2026-02-09T02:00:00Z"
+    },
+    {
+      "case_id": "direct-6-0",
+      "cause": "c1",
+      "revision": 2,
+      "reviewed_at": 11,
+      "received_at": "2026-03-23T02:00:00Z"
+    },
+    {
+      "case_id": "direct-11-1",
+      "cause": "c2",
+      "revision": 2,
+      "reviewed_at": 17,
+      "received_at": "2026-05-04T02:00:00Z"
+    },
+    {
+      "case_id": "direct-16-1",
+      "cause": "c0",
+      "revision": 2,
+      "reviewed_at": 22,
+      "received_at": "2026-06-08T02:00:00Z"
+    },
+    {
+      "case_id": "direct-22-1",
+      "cause": "c1",
+      "revision": 2,
+      "reviewed_at": 28,
+      "received_at": "2026-07-20T02:00:00Z"
+    },
+    {
+      "case_id": "direct-27-2",
+      "cause": "c2",
+      "revision": 2,
+      "reviewed_at": 34,
+      "received_at": "2026-08-31T02:00:00Z"
+    },
+    {
+      "case_id": "direct-33-0",
+      "cause": "c0",
+      "revision": 2,
+      "reviewed_at": 38,
+      "received_at": "2026-09-28T02:00:00Z"
+    },
+    {
+      "case_id": "partner-3-3",
+      "cause": "c1",
+      "revision": 2,
+      "reviewed_at": 11,
+      "received_at": "2026-03-23T02:00:00Z"
+    },
+    {
+      "case_id": "partner-9-1",
+      "cause": "c2",
+      "revision": 2,
+      "reviewed_at": 18,
+      "received_at": "2026-05-11T02:00:00Z"
+    },
+    {
+      "case_id": "partner-14-3",
+      "cause": "c0",
+      "revision": 2,
+      "reviewed_at": 22,
+      "received_at": "2026-06-08T02:00:00Z"
+    },
+    {
+      "case_id": "partner-19-4",
+      "cause": "c1",
+      "revision": 2,
+      "reviewed_at": 28,
+      "received_at": "2026-07-20T02:00:00Z"
+    },
+    {
+      "case_id": "partner-25-2",
+      "cause": "c2",
+      "revision": 2,
+      "reviewed_at": 35,
+      "received_at": "2026-09-07T02:00:00Z"
+    },
+    {
+      "case_id": "partner-31-0",
+      "cause": "c0",
+      "revision": 2,
+      "reviewed_at": 39,
+      "received_at": "2026-10-05T02:00:00Z"
+    },
+    {
+      "case_id": "new-30-0",
+      "cause": "c1",
+      "revision": 2,
+      "reviewed_at": 41,
+      "received_at": "2026-10-19T02:00:00Z"
     }
   ],
   "shipment_counts": [
@@ -5575,202 +4301,6 @@
       "count": 1408,
       "status": "observed",
       "received_at": "2026-08-31T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 0,
-      "count": 1000,
-      "status": "observed",
-      "received_at": "2026-01-05T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 1,
-      "count": 1012,
-      "status": "observed",
-      "received_at": "2026-01-12T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 2,
-      "count": 1024,
-      "status": "observed",
-      "received_at": "2026-01-19T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 3,
-      "count": 1036,
-      "status": "observed",
-      "received_at": "2026-01-26T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 4,
-      "count": 1048,
-      "status": "observed",
-      "received_at": "2026-02-02T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 5,
-      "count": 1060,
-      "status": "observed",
-      "received_at": "2026-02-09T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 6,
-      "count": 1072,
-      "status": "observed",
-      "received_at": "2026-02-16T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 7,
-      "count": 1084,
-      "status": "observed",
-      "received_at": "2026-02-23T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 8,
-      "count": 1096,
-      "status": "observed",
-      "received_at": "2026-03-02T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 9,
-      "count": 1108,
-      "status": "observed",
-      "received_at": "2026-03-09T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 10,
-      "count": 1120,
-      "status": "observed",
-      "received_at": "2026-03-16T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 11,
-      "count": 1132,
-      "status": "observed",
-      "received_at": "2026-03-23T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 12,
-      "count": 1144,
-      "status": "observed",
-      "received_at": "2026-03-30T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 13,
-      "count": 1156,
-      "status": "observed",
-      "received_at": "2026-04-06T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 14,
-      "count": 1168,
-      "status": "observed",
-      "received_at": "2026-04-13T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 15,
-      "count": 1180,
-      "status": "observed",
-      "received_at": "2026-04-20T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 16,
-      "count": 1192,
-      "status": "observed",
-      "received_at": "2026-04-27T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 17,
-      "count": 1204,
-      "status": "observed",
-      "received_at": "2026-05-04T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 18,
-      "count": 1216,
-      "status": "observed",
-      "received_at": "2026-05-11T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 19,
-      "count": 1228,
-      "status": "observed",
-      "received_at": "2026-05-18T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 20,
-      "count": 1240,
-      "status": "observed",
-      "received_at": "2026-05-25T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 21,
-      "count": 1252,
-      "status": "observed",
-      "received_at": "2026-06-01T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 22,
-      "count": 1264,
-      "status": "observed",
-      "received_at": "2026-06-08T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 23,
-      "count": 1276,
-      "status": "observed",
-      "received_at": "2026-06-15T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 24,
-      "count": 1288,
-      "status": "observed",
-      "received_at": "2026-06-22T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 25,
-      "count": 1300,
-      "status": "observed",
-      "received_at": "2026-06-29T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 26,
-      "count": 1312,
-      "status": "observed",
-      "received_at": "2026-07-06T00:00:00Z"
-    },
-    {
-      "channel": "new",
-      "week": 27,
-      "count": 1324,
-      "status": "observed",
-      "received_at": "2026-07-13T00:00:00Z"
     },
     {
       "channel": "new",
