@@ -19,4 +19,10 @@ shipment_counts 是渠道和出货周的业务暴露量，不等于已发现问�
 
 ## 已有能力与字段边界
 
-周序号以 2026-01-05 为第零周，每周七天；received_at 是实际获知时间，不把未来记录折叠进当前周。new 渠道在第28周后才有出货和受理；cause_versions 的最新 revision 代表该案当前判断。reported_triangle 输出渠道、发生周和延迟的已受理计数，未报告量与最终原因量仍待开发。
+周序号以 2026-01-05 为第零周，每周七天；received_at 是实际获知时间，不把未来记录折叠进当前周。new 渠道在第28周后才有出货和受理；cause_versions 的最新 revision 代表该案当前判断。reported_triangle 输出渠道、发生周和延迟的已受理计数；最终原因数量与尚待报告量由 occurrence_nowcast 按发生周估计。
+
+## 发生周估计口径
+
+occurrence_nowcast 按渠道、发生周输出三段：known 是截止前已受理且最新原因判断非 unresolved 的实际件数，unresolved 是已受理但原因未定的实际件数，unreported 是尚待报告的估计。总量与最终各原因数量由这三段经同一分摊规则推出，区间随之传导，reconciliation 记录核对结果与残差。复核提速只把件数从 unresolved 移入 known，不改变总量估计，判断是否恶化应看 total 而非 known。
+渠道完全成熟发生周数达到 mature_weeks_required 且最老发生周年龄超过已观察最大延迟时才给出估计；不满足时状态为 insufficient_history，只报告实际件数，不借用总体延迟分布填充，borrowing 给出拒绝证据（自身成熟周数、尾部是否封闭、与其他渠道延迟范围是否重叠）。
+估计只使用 received_at 不晚于 as_of 的记录；回看历史周会时用当时的 as_of 加新 request_id 重新请求，旧 request_id 的记录不被改写。

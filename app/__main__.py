@@ -4,6 +4,7 @@ OPERATION = 'development_triangle'
 import argparse
 import json
 
+from app.domain import OPERATIONS
 from app.httpd import create_server
 from app.service import Service
 
@@ -16,10 +17,12 @@ def main():
     run = commands.add_parser('inspect', help='保存业务覆盖分析')
     run.add_argument('--as-of', default='2026-09-30T23:59:59Z')
     run.add_argument('--request-id', default='coverage-september')
+    run.add_argument('--operation', default=OPERATION, choices=sorted(OPERATIONS))
     server = commands.add_parser('serve', help='启动本地分析接口')
     server.add_argument('--host', default='127.0.0.1')
     server.add_argument('--port', type=int, default=8080)
-    commands.add_parser('demo', help='展示当前覆盖分析')
+    demo = commands.add_parser('demo', help='展示当前覆盖分析')
+    demo.add_argument('--operation', default=OPERATION, choices=sorted(OPERATIONS))
     args = parser.parse_args()
     service = Service(args.source, args.database)
     if args.command == 'serve':
@@ -32,7 +35,8 @@ def main():
         finally:
             instance.server_close()
     else:
-        request = {'operation': OPERATION, 'request_id': getattr(args, 'request_id', 'demo-current'),
+        request = {'operation': getattr(args, 'operation', OPERATION),
+                   'request_id': getattr(args, 'request_id', 'demo-current'),
                    'as_of': getattr(args, 'as_of', '2026-09-30T23:59:59Z')}
         print(json.dumps(service.run(request), ensure_ascii=False, indent=2))
 
